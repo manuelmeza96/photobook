@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 gem 'foundation-rails', '~> 5.5', '>= 5.5.3.2'
+gem 'paperclip', '~> 4.3', '>= 4.3.2'
